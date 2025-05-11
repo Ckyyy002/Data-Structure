@@ -1,4 +1,3 @@
-10_147.c
 #include <stdio.h>
 
 void order(int *bst, int i, int n) {
